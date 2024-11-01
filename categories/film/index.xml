@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>film on </title>
+    <link>https://marukovowan.github.io/categories/film/</link>
+    <description>Recent content in film on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cn</language>
+    <lastBuildDate>Mon, 30 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://marukovowan.github.io/categories/film/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>天使拜拜</title>
+      <link>https://marukovowan.github.io/blogs/view/</link>
+      <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://marukovowan.github.io/blogs/view/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>写真</title>
+      <link>https://marukovowan.github.io/blogs/profile/</link>
+      <pubDate>Sun, 29 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://marukovowan.github.io/blogs/profile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>万圣节</title>
+      <link>https://marukovowan.github.io/blogs/hallo/</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://marukovowan.github.io/blogs/hallo/</guid>
+      <description>可以ovo～</description>
+    </item>
+    
+  </channel>
+</rss>
